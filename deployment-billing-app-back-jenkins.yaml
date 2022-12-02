@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: billing-app-back-jenkis
-          image: .......       
+          image: miguelbazan/app_facturacion       
           ports:
             - containerPort: 7280
               name: billingappbport
